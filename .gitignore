@@ -1,0 +1,10 @@
+*.swp
+*.swo
+.local
+*.DS_Store
+*.pid
+*.sublime-*
+*.log
+build
+firmware
+.output
